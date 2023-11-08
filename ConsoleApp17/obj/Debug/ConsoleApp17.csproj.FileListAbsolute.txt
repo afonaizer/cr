@@ -1,0 +1,8 @@
+G:\попытки\ConsoleApp17\bin\Debug\ConsoleApp17.exe.config
+G:\попытки\ConsoleApp17\bin\Debug\ConsoleApp17.exe
+G:\попытки\ConsoleApp17\bin\Debug\ConsoleApp17.pdb
+G:\попытки\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.AssemblyReference.cache
+G:\попытки\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.SuggestedBindingRedirects.cache
+G:\попытки\ConsoleApp17\obj\Debug\ConsoleApp17.csproj.CoreCompileInputs.cache
+G:\попытки\ConsoleApp17\obj\Debug\ConsoleApp17.exe
+G:\попытки\ConsoleApp17\obj\Debug\ConsoleApp17.pdb
