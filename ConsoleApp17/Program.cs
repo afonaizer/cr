@@ -8,7 +8,7 @@ namespace ConsoleApp17
 {
     internal class Program
     {
-       
+       //9. Реализовать функцию возведения целого числа в квадрат 
         static void Sqr()
         {
             Console.Write("введ число для возвед в квадрат ");
